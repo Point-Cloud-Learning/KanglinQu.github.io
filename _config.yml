@@ -23,7 +23,7 @@ repository               : "Point-Cloud-Learning/KanglinQu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/my_avatar.jpg"
+  avatar           : "my_avatar.jpg"
   name             : "Name"
   pronouns         : # example: "she/her"  
   bio              : "left-hand sidebar"
